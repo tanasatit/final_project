@@ -11,9 +11,3 @@ Member student can see and modify his project details.
 normal faculty see details of all the project and evaluate projects
 advisors send accept or deny response for projects, see details of all project,evaluate projects, approve the project.
 3.An admin can manage the database and update all the tables.
-
-
-
-
-
-
