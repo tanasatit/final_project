@@ -1,6 +1,6 @@
 Proposal
 
-After logging in faculty's roll, what you need to do is evaluate the project. While logging in we can see 
+After logging in faculty's role, what you need to do is evaluate the project. While logging in we can see 
 that there are student projects submitted for us to evaluate.
 When we go to see the project, we will find various information from project and evaluate each topic. 
 After that, we can change the project status. The project is currently being "evaluated".
