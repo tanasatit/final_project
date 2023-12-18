@@ -1,7 +1,7 @@
 TODO
 
-What I have to do It is to determine what duties in each roll must be done. 
-The rolls will be divided into 3 categories: students, faculty, and admins.
+What I have to do It is to determine what duties in each role must be done. 
+The role will be divided into 3 categories: students, faculty, and admins.
 1.students
 A lead student can create a project,find members,send invitational messages to potential members,add members to the 
 project and form a group,see and modify his own project details, send request messages to potential advisors, 

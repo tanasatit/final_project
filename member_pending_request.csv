@@ -1,6 +1,1 @@
-ProjectID,to_be_member,Response,Response_date
-868049,Manuel.N,deny,17-12-23
-117818,Manuel.N,deny,17-12-23
-868049,Robert.L,accept,17-12-23
-117818,Robert.L,accept,17-12-23
-868049,Eden.H,accept,17-12-23
+ProjectID,to_be_member,Response,Response_date868049,Manuel.N,accept,17-12-23117818,Manuel.N,deny,17-12-23868049,Robert.L,deny,17-12-23117818,Robert.L,accept,17-12-23868049,Eden.H,accept,17-12-23117818,Sergio.R,accept,17-12-23
